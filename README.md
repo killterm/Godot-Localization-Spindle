@@ -11,6 +11,10 @@ Spindle 한국어 패치
 - [스팀 상점 페이지](https://store.steampowered.com/app/1386750/Spindle/)
 - 버전: V.1.0.5
 
+## 라이센스
+
+- 폰트: [넥슨 카트 고딕 Bold](https://brand.nexon.com/ko/ci-brand-guidelines/typeface#section-kart)
+
 ## 사용법
 
 1. [최신 Release](https://github.com/killterm/Godot-Localization-Spindle/releases)를 게임 설치 경로에 다운로드
