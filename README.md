@@ -14,6 +14,7 @@ Spindle 한국어 패치
 ## 라이센스
 
 - 폰트: [넥슨 카트 고딕 Bold](https://brand.nexon.com/ko/ci-brand-guidelines/typeface#section-kart)
+- 패킹 툴: [hhyyrylainen/GodotPckTool](https://github.com/hhyyrylainen/GodotPckTool)
 
 ## 사용법
 
